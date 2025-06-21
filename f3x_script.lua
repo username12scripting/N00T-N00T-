@@ -1,5 +1,4 @@
-
-	local player = game.Players.LocalPlayer
+        local player = game.Players.LocalPlayer
 	local char = player.Character
 	local tool
 	for i,v in player:GetDescendants() do
